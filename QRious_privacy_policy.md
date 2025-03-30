@@ -1,9 +1,24 @@
 # Privacy Policy – QRious
 
-**QRious** does not collect, store, or transmit any personal data.
+QRious does not collect, store, or transmit any personal data. Your privacy is important, and this extension is designed to respect it by default.
 
-All QR code generation is handled locally in your browser. We do not track usage, store URLs, or share data of any kind.
+## 🔒 What We Don't Do:
+- We **do not collect or store** any URLs, QR codes, or user activity.
+- We **do not track usage** or analytics.
+- We **do not transmit** any data to external servers.
+- We **do not require** a login, signup, or user account.
 
-This extension works entirely offline and does not require any login, signup, or permissions beyond access to the active tab’s URL.
+## ⚙️ Permissions Used:
+QRious only requests the minimal permissions required to function:
 
-If you have any questions, feel free to contact us at we wehelpyou24seven@gmail.com.
+- `activeTab`: to access the current tab’s URL for QR code generation.
+- `downloads`: to allow users to save QR codes directly to their device.
+
+All QR code generation and file downloads are handled **locally in your browser**.
+
+## 📴 Offline by Design
+QRious works fully offline. It does not rely on an internet connection and does not communicate with any third-party services.
+
+---
+
+If you have any questions, feel free to reach out at **wehelpyou24seven@gmail.com**.
